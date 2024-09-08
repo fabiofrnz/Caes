@@ -1,4 +1,4 @@
-## Raças de Cães: Seu Guia Canino Personalizado
+## Raças de Cães: Seu Guia Canino Personalizado - Imersão Dev com Google Gemini
 
 O que é esse projeto?
 
