@@ -1,4 +1,4 @@
-let dados = [
+const dados = [
 
     {
         titulo: "Vira-lata",
@@ -122,5 +122,6 @@ let dados = [
             link: "https://pt.wikipedia.org/wiki/Rottweiler",
             tags: "protetor forte guarda"
           }
+    // Outros dados podem ser adicionados aqui...
 ];
 
